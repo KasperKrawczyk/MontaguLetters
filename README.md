@@ -52,4 +52,3 @@ I would like to thank:
 
 * Danie Archambault
 * Paolo Simonetto
-* Max Sondag
