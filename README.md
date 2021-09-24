@@ -8,10 +8,18 @@ DynNoSlice extension for Mary Wortley Montagu's letter exchanges
 
 ## Description
 
+<p>
 Elizabeth Montagu, author, and Bluestocking salonnière (1718-1800), was the leading woman of letters and artistic patron of her day. Her correspondence is considered 'among the most important surviving collections from the eighteenth century' (ODNB). Around 4,000 letters written by Montagu are held in libraries worldwide. She corresponded extensively with leaders of British Enlightenment coteries, such as Edmund Burke, Gilbert West, David Garrick and Horace Walpole, as well as the Bluestocking inner circle – Elizabeth Carter, Sarah Scott, Hannah More, Hester Thrale Piozzi, Frances Burney, Anna Laetitia Barbauld, Elizabeth Vesey, and Frances Boscawen. 
+</p>
+<p>
 The goal of the Elizabeth Montagu Online Correspondence (EMCO) project is to offer digital unification of Montagu’s extant correspondence, totalling c. 4,000, which is currently held in at least 23 libraries, archives and private collections worldwide. EMCO offers access to transcriptions and associated metadata, constructed through the use of cutting-edge automatic handwriting recognition in collaboration with the Transkribus project, as well as original manuscripts, accurate and exhaustive notes, and the most recently discovered letters. 
+</p>
+<p>
 The data used in this visualisation is drawn from the relational database which provide information relating to inventory, location, dates, and people to users of the EMCO website. 
+</p>
+<p>
 The visualisation provides an at-a-glance three-dimensional perspective on how relationships were built and sustained through Elizabeth Montagues correspondence and suggests new and important avenues of research for scholars of eighteenth-century literature and social networks. The immediacy of the experience is tranformative in comparison to traditional tabular representations of similar temporally bound data. 
+</p>
 
 ## Getting Started
 
