@@ -44,11 +44,12 @@ java -jar DynNoSlice.jar gui
 
 ## License
 
-This project is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) License - see the LICENSE.md file for details
+This project is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) License.
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+I would like to thank:
+
 * Danie Archambault
 * Paolo Simonetto
 * Max Sondag
