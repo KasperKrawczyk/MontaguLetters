@@ -20,6 +20,9 @@ The data used in this visualisation is drawn from the relational database which 
 <p>
 The visualisation provides an at-a-glance three-dimensional perspective on how relationships were built and sustained through Elizabeth Montagues correspondence and suggests new and important avenues of research for scholars of eighteenth-century literature and social networks. The immediacy of the experience is tranformative in comparison to traditional tabular representations of similar temporally bound data. 
 </p>
+<p>
+The algorithm uses one year as a point the temporal data series (the T axis).
+</p>
 
 ## Getting Started
 
