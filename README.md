@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Montagu.gif" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img src="Montagu.gif" style="float: left; width: 80%; margin-right: 1%; margin-bottom: 0.5em;">
 </p>
 
 # DynNoSlice - MontaguLetters
